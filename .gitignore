@@ -1,0 +1,12 @@
+# Virtual environment (created by uv sync)
+.venv/
+
+# Python cache
+*.pyc
+__pycache__/
+
+# Lambda zip-build artifacts (produced by scripts/build_zip.sh)
+dist/
+
+# OS
+.DS_Store

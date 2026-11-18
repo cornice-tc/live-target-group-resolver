@@ -1,0 +1,8 @@
+live-target-group-resolver
+Copyright 2026 Cornice Technology Corporation
+
+Bundles the third-party component below.
+
+Component        License  Copyright
+cfnresponse.py   MIT-0    Amazon.com, Inc. or its affiliates
+  https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-lambda-function-code-cfnresponsemodule.html
